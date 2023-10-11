@@ -1,0 +1,2 @@
+#ignore all .gz files
+*.gz
